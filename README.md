@@ -4,18 +4,6 @@
 **Affiliation:** GGSIPU, EDC  
 **Date:** January 16, 2026
 
-## 📂 Project Structure
-This repository contains the complete solution for the Multi-Level Assessment. The code is consolidated into a single Jupyter Notebook for reproducibility.
-
-├── Flowers102_Solution.ipynb  # Contains code for Levels 1, 2, 3, 4, and 5
-├── models/
-│   └── level_5_production.pt  # Final Quantized MobileNetV2 (~9MB)
-├── results/
-│   ├── level_1_training.png
-│   ├── level_2_comparison.png
-│   ├── level_3_heatmap.png
-│   └── level_4_accuracy.png
-└── requirements.txt
 
 ## 🚀 Solution Summary
 
